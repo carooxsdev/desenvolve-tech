@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExercicioContaCorrente/ExercicioContaCorrente.iml" filepath="$PROJECT_DIR$/ExercicioContaCorrente/ExercicioContaCorrente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercícioArrays/ExercícioArrays.iml" filepath="$PROJECT_DIR$/ExercícioArrays/ExercícioArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/desenvolve-tech.iml" filepath="$PROJECT_DIR$/.idea/desenvolve-tech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicioMap/exercicioMap.iml" filepath="$PROJECT_DIR$/exercicioMap/exercicioMap.iml" />
+    </modules>
+  </component>
+</project>

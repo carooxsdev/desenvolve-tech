@@ -114,8 +114,20 @@ public class Main {
         return listaUniao;
     }
 
-    public static int[] intersect(int[] l1, int[] l2){
-        
+    public static int[] intersect(int[] l1, int[] l2) {
+        int size = l1.length + l2.length;
+        int[] lista = new int[size];
+        int contador = 0;
+        for (int i = 0; i < l1.length - 1; i++) {
+            for (int j = 0; j < l2.length - 1; j++) {
+                if (l1[i] == l2[j]) {
+                    lista[contador] = l1[i];
+                    System.out.println(lista[contador]);
+                    contador++;
+                }
+            }
+        }
+        return lista;
     }
 
 }
